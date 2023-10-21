@@ -1,0 +1,4 @@
+computational-intelligence/
+*.pdf
+*venv*
+__pycache__/

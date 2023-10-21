@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "laboratories"
+version = "0.1.0"
+description = ""
+authors = ["Gabbo62 <93376123+Gabbo62@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+ipykernel = "^6.25.2"
+jupyter-core = "^5.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
