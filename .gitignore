@@ -1,4 +1,6 @@
+.vscode
 computational-intelligence/
 *.pdf
 *venv*
 __pycache__/
+semester.md
