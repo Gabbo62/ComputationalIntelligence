@@ -6,10 +6,12 @@ authors = ["Gabbo62 <93376123+Gabbo62@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "3.11"
 ipykernel = "^6.25.2"
 jupyter-core = "^5.4.0"
 tqdm = "^4.66.1"
+scipy = "^1.11.3"
+numpy = "^1.26.1"
 
 
 [build-system]
