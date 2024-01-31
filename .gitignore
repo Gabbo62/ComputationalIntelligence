@@ -4,3 +4,4 @@ computational-intelligence/
 *venv*
 __pycache__/
 semester.md
+Q_table.pkl
